@@ -1,1 +1,2 @@
- this is a base file
+Now I made changes to base file, it should not cause new git staging area change
+this is a base file
