@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 build
-=======
-.env
->>>>>>> heroku
 node_modules
 .idea
