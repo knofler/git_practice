@@ -1,1 +1,4 @@
  this is a base file
+Now is the change being madde in base file in upstream
+
+This is the new update from remote and we accepted changes
